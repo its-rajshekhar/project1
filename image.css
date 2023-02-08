@@ -1,0 +1,10 @@
+body{
+    background-image:url("dark.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color:rgb(208, 33, 68);
+    text-align:center;
+
+}
